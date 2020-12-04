@@ -1,0 +1,13 @@
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.exe
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.deps.json
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.runtimeconfig.json
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.runtimeconfig.dev.json
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.dll
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.pdb
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.csprojAssemblyReference.cache
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.AssemblyInfoInputs.cache
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.AssemblyInfo.cs
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.csproj.CoreCompileInputs.cache
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.dll
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.pdb
+E:\Studia\Tra-Translatory\Lab3\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.genruntimeconfig.cache
